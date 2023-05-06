@@ -15,11 +15,11 @@
 
 <br>
 
-![Verify Account UI]()
+![Verify Account UI](images/Verify-Account-UI.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Verify-Account-UI/)
 
 <br>
 
